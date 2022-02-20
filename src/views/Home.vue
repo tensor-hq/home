@@ -10,7 +10,9 @@
       <p class="mr-2">NFT price discovery protocol on Solana</p>
       <SolanaLogo class="mt-1" />
     </div>
-    <a href="mailto:team@asimov.so" class="text-blue-700">team@asimov.so</a>
+    <a href="https://twitter.com/_ilmoi" target="_blank" class="text-blue-700"
+      >Contact</a
+    >
   </div>
 </template>
 

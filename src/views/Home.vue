@@ -1,11 +1,13 @@
 <template>
   <div class="main">
-    <div class="flex justify-center">
-      <AsimovLogo />
+    <div class="flex justify-center flex-col">
+      <div class="flex justify-center">
+        <img src="@/assets/apple-red.png" :width="40" :height="40" />
+      </div>
+      <h1 class="text-6xl my-3 mb-4 tracking-widest">asimov</h1>
     </div>
-    <h1 class="text-6xl my-5 tracking-widest">asimov</h1>
     <div class="flex justify-center">
-      <p class="mr-2">NFT appraisal protocol on Solana</p>
+      <p class="mr-2">NFT price discovery protocol on Solana</p>
       <SolanaLogo class="mt-1" />
     </div>
     <a href="mailto:team@asimov.so" class="text-blue-700">team@asimov.so</a>
@@ -14,10 +16,9 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import AsimovLogo from "@/components/AsimovLogo.vue";
 import SolanaLogo from "@/components/SolanaLogo.vue";
 export default defineComponent({
-  components: { SolanaLogo, AsimovLogo },
+  components: { SolanaLogo },
   setup() {
     return {};
   },

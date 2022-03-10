@@ -2,15 +2,15 @@
   <div class="main">
     <div class="flex justify-center flex-col">
       <div class="flex justify-center">
-        <img src="@/assets/apple-red.png" :width="40" :height="40" />
+        <img src="@/assets/tensor.png" :width="80" :height="80" />
       </div>
-      <h1 class="text-6xl my-3 mb-4 tracking-widest">asimov</h1>
+      <h1 class="text-2xl my-3 tracking-widest">TENSOR</h1>
     </div>
     <div class="flex justify-center">
-      <p class="mr-2">NFT price discovery protocol on Solana</p>
+      <p class="mr-2">NFT pricing protocol on Solana</p>
       <SolanaLogo class="mt-1" />
     </div>
-    <a href="https://twitter.com/_ilmoi" target="_blank" class="text-blue-700"
+    <a href="https://github.com/tensor-hq" target="_blank" class="text-blue-400"
       >Contact</a
     >
   </div>
@@ -29,7 +29,7 @@ export default defineComponent({
 
 <style scoped>
 .main {
-  @apply h-screen w-screen mx-auto flex flex-col justify-center align-middle text-center;
+  @apply h-screen w-screen mx-auto flex flex-col justify-center align-middle text-center bg-black text-white;
   position: fixed;
 }
 </style>

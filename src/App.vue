@@ -16,11 +16,11 @@ body {
   height: 100vh;
 }
 @font-face {
-  font-family: "mandalore";
-  src: local("mandalore"), url("assets/Mandalore.otf") format("truetype");
+  font-family: "tensor";
+  src: local("tensor"), url("assets/NEWACADEMY.ttf") format("truetype");
 }
 
 h1 {
-  font-family: "mandalore", monospace;
+  font-family: "tensor", monospace;
 }
 </style>

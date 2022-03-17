@@ -23,7 +23,7 @@
         </button></a
       >
       <!--todo make https and redirect to public dashboards-->
-      <a href="http://charts.tensor.so/" target="_blank"
+      <a href="https://charts.tensor.so/" target="_blank"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black">
           Charts
         </button></a
@@ -36,9 +36,8 @@
         class="text-blue-400 m-2"
         >Github 🛠</a
       >
-      <!--todo better link to join-->
       <a
-        href="https://discord.gg/gd2gDJnqrg"
+        href="https://discord.com/invite/a8spfqxEpC"
         target="_blank"
         class="text-blue-400 m-2"
         >Discord 💬</a

@@ -16,8 +16,7 @@
           Docs
         </button></a
       >
-      <!--todo add video link from hackathon-->
-      <a href="#" target="_blank"
+      <a href="https://youtu.be/eT-jRWKdLp4" target="_blank"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Video
         </button></a

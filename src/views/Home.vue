@@ -7,24 +7,23 @@
       <h1 class="text-3xl my-3 tracking-widest">TENSOR</h1>
     </div>
     <div class="flex justify-center mb-10">
-      <p class="mr-2">NFT Pricing Protocol on Solana</p>
+      <h2 class="mr-2">NFT Pricing Protocol on Solana</h2>
       <SolanaLogo class="mt-1" />
     </div>
     <div>
       <a href="https://docs.tensor.so/" target="_blank"
-        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black">
+        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Docs
         </button></a
       >
       <!--todo add video link from hackathon-->
       <a href="#" target="_blank"
-        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black">
+        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Video
         </button></a
       >
-      <!--todo make https and redirect to public dashboards-->
-      <a href="https://charts.tensor.so/" target="_blank"
-        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black">
+      <a href="/charts"
+        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Charts
         </button></a
       >

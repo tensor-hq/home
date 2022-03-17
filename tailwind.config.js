@@ -3,10 +3,14 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
-  },
-  variants: {
-    extend: {},
+    extend: {
+      colors: {
+        cyan: "#4DD0E1",
+      },
+    },
+    variants: {
+      extend: {},
+    },
   },
   plugins: [],
 };

@@ -40,6 +40,12 @@
         class="text-blue-400 m-2"
         >Discord 💬</a
       >
+      <a
+        href="https://twitter.com/tensor_hq"
+        target="_blank"
+        class="text-blue-400 m-2"
+        >Twitter 🐦</a
+      >
     </div>
   </div>
 </template>

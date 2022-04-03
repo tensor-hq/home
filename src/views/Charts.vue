@@ -33,10 +33,3 @@
     </div>
   </div>
 </template>
-
-<style scoped>
-.main {
-  @apply h-screen w-screen mx-auto flex flex-col justify-center align-middle text-center bg-black text-white;
-  position: fixed;
-}
-</style>

@@ -7,25 +7,31 @@
       <h1 class="text-3xl my-3 tracking-widest">TENSOR</h1>
     </div>
     <div class="flex justify-center mb-10">
-      <h2 class="mr-2">NFT Pricing Protocol on Solana</h2>
+      <h2 class="mr-2 text-lg font-bold">NFT Pricing Protocol on Solana</h2>
       <SolanaLogo class="mt-1" />
     </div>
     <div>
       <a href="https://docs.tensor.so/" target="_blank"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Docs
-        </button></a
-      >
+        </button>
+      </a>
       <a href="https://youtu.be/eT-jRWKdLp4" target="_blank"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Video
-        </button></a
-      >
+        </button>
+      </a>
       <a href="/charts"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
           Charts
-        </button></a
-      >
+        </button>
+      </a>
+
+      <a href="/apps"
+        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
+          Apps
+        </button>
+      </a>
     </div>
     <div class="mt-10">
       <a
@@ -60,10 +66,3 @@ export default defineComponent({
   },
 });
 </script>
-
-<style scoped>
-.main {
-  @apply h-screen w-screen mx-auto flex flex-col justify-center align-middle text-center bg-black text-white;
-  position: fixed;
-}
-</style>

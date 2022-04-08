@@ -53,6 +53,15 @@
         >Twitter 🐦</a
       >
     </div>
+    <div class="mt-10">
+      <a
+        href="https://forms.gle/3mWZruPdqmeasduv5"
+        target="_blank"
+        class="text-blue-400 font-bold underline"
+      >
+        Looking for NFT data & analytics API access?
+      </a>
+    </div>
   </div>
 </template>
 

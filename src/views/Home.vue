@@ -7,8 +7,9 @@
       <h1 class="text-3xl my-3 tracking-widest">TENSOR</h1>
     </div>
     <div class="flex justify-center mb-10">
-      <h2 class="mr-2 text-lg font-bold">NFT Pricing Protocol on Solana</h2>
+      <h2 class="mr-2 text-lg font-bold">Multi-chain NFT Pricing Protocol</h2>
       <SolanaLogo class="mt-1" />
+      <EthLogo class="ml-2" />
     </div>
     <div>
       <a href="https://docs.tensor.so/" target="_blank"
@@ -53,11 +54,11 @@
         >Twitter 🐦</a
       >
     </div>
-    <div class="mt-10">
+    <div class="mt-5">
       <a
         href="https://forms.gle/3mWZruPdqmeasduv5"
         target="_blank"
-        class="text-blue-400 font-bold underline"
+        class="text-blue-400"
       >
         Looking for NFT data & analytics API access?
       </a>
@@ -68,8 +69,9 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import SolanaLogo from "@/components/SolanaLogo.vue";
+import EthLogo from "@/components/EthLogo.vue";
 export default defineComponent({
-  components: { SolanaLogo },
+  components: { EthLogo, SolanaLogo },
   setup() {
     return {};
   },

@@ -22,11 +22,11 @@
           Video
         </button>
       </a>
-      <a href="/charts"
-        ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
-          Charts
-        </button>
-      </a>
+      <!--<a href="/charts"-->
+      <!--  ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">-->
+      <!--    Charts-->
+      <!--  </button>-->
+      <!--</a>-->
 
       <a href="/apps"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">
@@ -54,15 +54,15 @@
         >Twitter 🐦</a
       >
     </div>
-    <div class="mt-5">
-      <a
-        href="https://forms.gle/3mWZruPdqmeasduv5"
-        target="_blank"
-        class="text-blue-400"
-      >
-        Looking for NFT data & analytics API access?
-      </a>
-    </div>
+    <!--<div class="mt-5">-->
+    <!--  <a-->
+    <!--    href="https://forms.gle/3mWZruPdqmeasduv5"-->
+    <!--    target="_blank"-->
+    <!--    class="text-blue-400"-->
+    <!--  >-->
+    <!--    Looking for NFT data & analytics API access?-->
+    <!--  </a>-->
+    <!--</div>-->
   </div>
 </template>
 

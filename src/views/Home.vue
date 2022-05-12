@@ -11,6 +11,17 @@
       <SolanaLogo class="mt-1" />
       <EthLogo class="ml-2" />
     </div>
+    <div class="flex justify-center mb-10">
+      <a
+        href="https://solana.com/news/riptide-hackathon-winners-solana"
+        target="_blank"
+      >
+        <h3 class="underline">
+          <span class="font-bold">🥉 3rd place</span> Web3 and Switchboard
+          winners @ Solana Riptide Hackathon
+        </h3>
+      </a>
+    </div>
     <div>
       <a href="https://docs.tensor.so/" target="_blank"
         ><button class="m-2 p-1 px-5 text-xl bg-cyan text-black font-bold">

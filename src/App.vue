@@ -16,11 +16,17 @@ body {
   height: 100vh;
 }
 @font-face {
-  font-family: "tensor";
-  src: local("tensor"), url("assets/NEWACADEMY.ttf") format("truetype");
+  font-family: "jb";
+  src: local("jetbrains"),
+    url("assets/JetBrainsMono-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "jb-bold";
+  src: local("jetbrains-bold"),
+    url("assets/JetBrainsMono-Bold.ttf") format("truetype");
 }
 
-h1 {
-  font-family: "tensor", monospace;
+* {
+  font-family: "jb", monospace;
 }
 </style>

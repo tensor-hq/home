@@ -21,7 +21,7 @@
 
     <!--decr-->
     <div class="flex justify-center mb-2">
-      <h2 class="font-bold">Fastest NFT Trading Platform for Pros</h2>
+      <h2 class="font-bold">The Fastest NFT Trading Platform for Pros</h2>
     </div>
     <div class="flex justify-center mb-5">
       <h2 class="mr-2 text-sm text-gray-400">Built on Solana</h2>
